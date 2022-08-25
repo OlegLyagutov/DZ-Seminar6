@@ -5,6 +5,21 @@
 
 // 1, -7, 567, 89, 223-> 3
 
+// Console.Write("Введите количество чисел: ");
+// int size = Convert.ToInt32(Console.ReadLine());
+// int[] array = new int[size];
+// int count = 0;
+// for (int i = 0; i < size; i++)
+// {
+//     Console.WriteLine($"Введите {i+1} число: ");
+//     array[i] = Convert.ToInt32(Console.ReadLine());
+//     Console.WriteLine($"array: [ {String.Join("; ", array)} ]");
+
+//     if (array[i] > 0) count++;
+//     {
+//         Console.WriteLine($"Количество положительных чисел: {count} ");
+//     }
+// }
 
 
 // Задача 43: Напишите программу, которая найдёт точку пересечения
